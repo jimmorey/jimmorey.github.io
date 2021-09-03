@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<!-- delay_demo from http://tympanus.net/Tutorials/OriginalHoverEffects/index3.html -->
+<html lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script type="text/javascript" defer>
+        emoji = {
+            skinTone: [127995, 127996, 127997, 127998, 127999],
+            skinRand: function(obj, name) {
+                return this.skin(obj, name, Math.floor(Math.random() * this.skinTone.length));
+            },
+            skin: function(obj, name, num) {
+                let x = obj[name];
+                if (num == 0)
+                    return this.makeEmoji(x.codes);
+                return this.makeEmoji([x.codes[0], this.skinTone[num], ...(x.codes.slice(1))]);
+            },
+            makeEmoji: function(arr) {
+                return arr.map(x=>String.fromCodePoint(x)).join("");
+            }
+        };
+        //---------------------
+
+        let flags;
+        fetch('flags.json').then(response=>response.json()).then(data=>{
+            flags = data;
+            $(".dd").prepend(`<div class="flag" title="${flags.CA.name}">${emoji.makeEmoji(flags.CA.codes)}</div>`);
+
+            $("#lists").append(`<details id="flags"><summary>flags</summary></details>`);
+            for (let y in flags) {
+                $("#flags").append(`<span class="emoj" title="${flags[y].name}&mdash; cap:${flags[y].capital} pop:${new Number(flags[y].pop).toLocaleString()} land:${new Number(flags[y].land).toLocaleString()}">${emoji.makeEmoji(flags[y].codes)}</span>`);
+            }
+        });
+
+        let people;
+        let whole = [];
+        let partial = [];
+        fetch('people.json').then(response=>response.json()).then(data=>{
+            people = data;
+            for (let name in people) {
+                if (people[name].desc === "whole")
+                    whole.push(name);
+                else
+                    partial.push(name);
+            }
+            $("#lists").append(`<details id="people"><summary>people</summary></details>`);
+            whole.forEach(y=>$("#people").append(`<span class="emoj" title="${y}">${emoji.skinRand(people, y)}</span>`));
+
+            $("#lists").append(`<details id="partPeople"><summary>partial people</summary></details>`);
+            partial.forEach(y=>$("#partPeople").append(`<span class="emoj" title="${y}">${emoji.skinRand(people, y)}</span>`));
+        });
+
+        let aniObj;
+        fetch('animals.json').then(response=>response.json()).then(data=>{
+            aniObj = data;
+            $("span.emoji").each(function() {
+                $(this).text((aniObj[$(this).text()]["codes"]).map(x=>String.fromCodePoint(x)).join(""));
+            });
+            $("#lists").append(`<details id="animals"><summary>animals</summary></details>`);
+            for (let x in aniObj) {
+                $("#animals").append(`<span class="emoj" title="${x}">${aniObj[x].codes.map(n=>String.fromCodePoint(n)).join("")}</span>`);
+            }
+        });
+    </script>
+            <link rel="stylesheet" href="team.css"/>
+        <style></style>
+        </head>
+    <body>
+        <div class="container">
+            <div id="delay_demo" class="shadow hover">
+                <div id="dd_main" class="dd circle main">
+                    <span class="emoji">peacock</span>
+                    <br/>
+                    <h3>My team</h3>
+                </div>
+                <div id="dd1" class="dd circle">
+                    <div class="image">
+                        <a href="team.css">
+                            <span class="emoji">hedgehog</span>
+                        </a>
+                    </div>
+                    <div class="content">
+                        <ul>
+                            Laura B
+                            <li>likes sweets</li>
+                            <li>sews dresses</li>
+                    </div>
+                </div>
+                <div id="dd2" class="dd circle">
+                    <div class="image">
+                        <a href="team.css">
+                            <span class="emoji">ewe</span>
+                        </a>
+                    </div>
+                    <div class="content">
+                        <ul>
+                            Carolyn M
+                            <li>likes pies</li>
+                            <li>plays games</li>
+                    </div>
+                </div>
+                <div id="dd3" class="dd circle">
+                    <div class="image">
+                        <a href="team.css">
+                            <span class="emoji">leopard</span>
+                        </a>
+                    </div>
+                    <div class="content">
+                        <ul>
+                            Jessie B
+                            <li>likes fruit</li>
+                            <li>runs outside</li>
+                    </div>
+                </div>
+                <div id="dd4" class="dd circle">
+                    <div class="image">
+                        <a href="team.css">
+                            <span class="emoji">pig</span>
+                        </a>
+                    </div>
+                    <div class="content">
+                        <ul>
+                            Jim B
+                            <li>likes eating</li>
+                            <li>watches sports</li>
+                        </ul>
+                    </div>
+                </div>
+                <div id="dd5" class="dd circle">
+                    <div class="image">
+                        <a href="team.css">
+                            <span class="emoji">turkey</span>
+                        </a>
+                    </div>
+                    <div class="content">
+                        <ul>
+                            Julie B
+                            <li>likes lattes</li>
+                            <li>watches Schitt's Creek</li>
+                        </ul>
+                    </div>
+                </div>
+                <p class="instruction">Hover on me</p>
+            </div>
+        </div>
+        <p style="font-size:0.75em;">This is play with emojis that will one eventually be encorporated into a team building
+            page that will use a spread sheet to populate data about individuals on teams.  As well, 
+            It's an exploration on accessiblity issues with text and images. Hover over the emojis in the lists
+            below to see extra infomation or textual descriptions. </p>
+        <div id="lists" style="font-size:1em;">
+            <h2>Emoji lists</h2>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,914 @@
+ {
+                "gbaby": {
+                    "desc": "whole",
+                    "codes": [128118]
+                },
+                "gchild": {
+                    "desc": "whole",
+                    "codes": [129490]
+                },
+                "gboy": {
+                    "desc": "whole",
+                    "codes": [128102]
+                },
+                "ggirl": {
+                    "desc": "whole",
+                    "codes": [128103]
+                },
+                "gperson": {
+                    "desc": "whole",
+                    "codes": [129489]
+                },
+                "gperson: blond hair": {
+                    "desc": "partial",
+                    "codes": [128113]
+                },
+                "gman": {
+                    "desc": "whole",
+                    "codes": [128104]
+                },
+                "gperson: beard": {
+                    "desc": "whole",
+                    "codes": [129492]
+                },
+                "gman: red hair": {
+                    "desc": "partial",
+                    "codes": [128104, 8205, 129456]
+                },
+                "gman: curly hair": {
+                    "desc": "partial",
+                    "codes": [128104, 8205, 129457]
+                },
+                "gman: white hair": {
+                    "desc": "partial",
+                    "codes": [128104, 8205, 129459]
+                },
+                "gman: bald": {
+                    "desc": "partial",
+                    "codes": [128104, 8205, 129458]
+                },
+                "gwoman": {
+                    "desc": "whole",
+                    "codes": [128105]
+                },
+                "gwoman: red hair": {
+                    "desc": "partial",
+                    "codes": [128105, 8205, 129456]
+                },
+                "gperson: red hair": {
+                    "desc": "partial",
+                    "codes": [129489, 8205, 129456]
+                },
+                "gwoman: curly hair": {
+                    "desc": "partial",
+                    "codes": [128105, 8205, 129457]
+                },
+                "gperson: curly hair": {
+                    "desc": "partial",
+                    "codes": [129489, 8205, 129457]
+                },
+                "gwoman: white hair": {
+                    "desc": "partial",
+                    "codes": [128105, 8205, 129459]
+                },
+                "gperson: white hair": {
+                    "desc": "partial",
+                    "codes": [129489, 8205, 129459]
+                },
+                "gwoman: bald": {
+                    "desc": "partial",
+                    "codes": [128105, 8205, 129458]
+                },
+                "gperson: bald": {
+                    "desc": "partial",
+                    "codes": [129489, 8205, 129458]
+                },
+                "gwoman: blond hair": {
+                    "desc": "partial",
+                    "codes": [128113, 8205, 9792, 65039]
+                },
+                "gman: blond hair": {
+                    "desc": "partial",
+                    "codes": [128113, 8205, 9794, 65039]
+                },
+                "golder person": {
+                    "desc": "whole",
+                    "codes": [129491]
+                },
+                "gold man": {
+                    "desc": "whole",
+                    "codes": [128116]
+                },
+                "gold woman": {
+                    "desc": "whole",
+                    "codes": [128117]
+                },
+                "gperson frowning": {
+                    "desc": "partial",
+                    "codes": [128589]
+                },
+                "gman frowning": {
+                    "desc": "partial",
+                    "codes": [128589, 8205, 9794, 65039]
+                },
+                "gwoman frowning": {
+                    "desc": "partial",
+                    "codes": [128589, 8205, 9792, 65039]
+                },
+                "gperson pouting": {
+                    "desc": "partial",
+                    "codes": [128590]
+                },
+                "gman pouting": {
+                    "desc": "partial",
+                    "codes": [128590, 8205, 9794, 65039]
+                },
+                "gwoman pouting": {
+                    "desc": "partial",
+                    "codes": [128590, 8205, 9792, 65039]
+                },
+                "gperson gesturing NO": {
+                    "desc": "partial",
+                    "codes": [128581]
+                },
+                "gman gesturing NO": {
+                    "desc": "partial",
+                    "codes": [128581, 8205, 9794, 65039]
+                },
+                "gwoman gesturing NO": {
+                    "desc": "partial",
+                    "codes": [128581, 8205, 9792, 65039]
+                },
+                "gperson gesturing OK": {
+                    "desc": "partial",
+                    "codes": [128582]
+                },
+                "gman gesturing OK": {
+                    "desc": "partial",
+                    "codes": [128582, 8205, 9794, 65039]
+                },
+                "gwoman gesturing OK": {
+                    "desc": "partial",
+                    "codes": [128582, 8205, 9792, 65039]
+                },
+                "gperson tipping hand": {
+                    "desc": "partial",
+                    "codes": [128129]
+                },
+                "gman tipping hand": {
+                    "desc": "partial",
+                    "codes": [128129, 8205, 9794, 65039]
+                },
+                "gwoman tipping hand": {
+                    "desc": "partial",
+                    "codes": [128129, 8205, 9792, 65039]
+                },
+                "gperson raising hand": {
+                    "desc": "partial",
+                    "codes": [128587]
+                },
+                "gman raising hand": {
+                    "desc": "partial",
+                    "codes": [128587, 8205, 9794, 65039]
+                },
+                "gwoman raising hand": {
+                    "desc": "partial",
+                    "codes": [128587, 8205, 9792, 65039]
+                },
+                "gdeaf person": {
+                    "desc": "partial",
+                    "codes": [129487]
+                },
+                "gdeaf man": {
+                    "desc": "partial",
+                    "codes": [129487, 8205, 9794, 65039]
+                },
+                "gdeaf woman": {
+                    "desc": "partial",
+                    "codes": [129487, 8205, 9792, 65039]
+                },
+                "gperson bowing": {
+                    "desc": "partial",
+                    "codes": [128583]
+                },
+                "gman bowing": {
+                    "desc": "partial",
+                    "codes": [128583, 8205, 9794, 65039]
+                },
+                "gwoman bowing": {
+                    "desc": "partial",
+                    "codes": [128583, 8205, 9792, 65039]
+                },
+                "gperson facepalming": {
+                    "desc": "partial",
+                    "codes": [129318]
+                },
+                "gman facepalming": {
+                    "desc": "partial",
+                    "codes": [129318, 8205, 9794, 65039]
+                },
+                "gwoman facepalming": {
+                    "desc": "partial",
+                    "codes": [129318, 8205, 9792, 65039]
+                },
+                "gperson shrugging": {
+                    "desc": "partial",
+                    "codes": [129335]
+                },
+                "gman shrugging": {
+                    "desc": "partial",
+                    "codes": [129335, 8205, 9794, 65039]
+                },
+                "gwoman shrugging": {
+                    "desc": "partial",
+                    "codes": [129335, 8205, 9792, 65039]
+                },
+                "ghealth worker": {
+                    "desc": "partial",
+                    "codes": [129489, 8205, 9877, 65039]
+                },
+                "gman health worker": {
+                    "desc": "partial",
+                    "codes": [128104, 8205, 9877, 65039]
+                },
+                "gwoman health worker": {
+                    "desc": "partial",
+                    "codes": [128105, 8205, 9877, 65039]
+                },
+                "gstudent": {
+                    "desc": "partial",
+                    "codes": [129489, 8205, 127891]
+                },
+                "gman student": {
+                    "desc": "partial",
+                    "codes": [128104, 8205, 127891]
+                },
+                "gwoman student": {
+                    "desc": "partial",
+                    "codes": [128105, 8205, 127891]
+                },
+                "gteacher": {
+                    "desc": "partial",
+                    "codes": [129489, 8205, 127979]
+                },
+                "gman teacher": {
+                    "desc": "partial",
+                    "codes": [128104, 8205, 127979]
+                },
+                "gwoman teacher": {
+                    "desc": "partial",
+                    "codes": [128105, 8205, 127979]
+                },
+                "gjudge": {
+                    "desc": "partial",
+                    "codes": [129489, 8205, 9878, 65039]
+                },
+                "gman judge": {
+                    "desc": "partial",
+                    "codes": [128104, 8205, 9878, 65039]
+                },
+                "gwoman judge": {
+                    "desc": "partial",
+                    "codes": [128105, 8205, 9878, 65039]
+                },
+                "gfarmer": {
+                    "desc": "partial",
+                    "codes": [129489, 8205, 127806]
+                },
+                "gman farmer": {
+                    "desc": "partial",
+                    "codes": [128104, 8205, 127806]
+                },
+                "gwoman farmer": {
+                    "desc": "partial",
+                    "codes": [128105, 8205, 127806]
+                },
+                "gcook": {
+                    "desc": "partial",
+                    "codes": [129489, 8205, 127859]
+                },
+                "gman cook": {
+                    "desc": "partial",
+                    "codes": [128104, 8205, 127859]
+                },
+                "gwoman cook": {
+                    "desc": "partial",
+                    "codes": [128105, 8205, 127859]
+                },
+                "gmechanic": {
+                    "desc": "partial",
+                    "codes": [129489, 8205, 128295]
+                },
+                "gman mechanic": {
+                    "desc": "partial",
+                    "codes": [128104, 8205, 128295]
+                },
+                "gwoman mechanic": {
+                    "desc": "partial",
+                    "codes": [128105, 8205, 128295]
+                },
+                "gfactory worker": {
+                    "desc": "partial",
+                    "codes": [129489, 8205, 127981]
+                },
+                "gman factory worker": {
+                    "desc": "partial",
+                    "codes": [128104, 8205, 127981]
+                },
+                "gwoman factory worker": {
+                    "desc": "partial",
+                    "codes": [128105, 8205, 127981]
+                },
+                "goffice worker": {
+                    "desc": "partial",
+                    "codes": [129489, 8205, 128188]
+                },
+                "gman office worker": {
+                    "desc": "partial",
+                    "codes": [128104, 8205, 128188]
+                },
+                "gwoman office worker": {
+                    "desc": "partial",
+                    "codes": [128105, 8205, 128188]
+                },
+                "gscientist": {
+                    "desc": "partial",
+                    "codes": [129489, 8205, 128300]
+                },
+                "gman scientist": {
+                    "desc": "partial",
+                    "codes": [128104, 8205, 128300]
+                },
+                "gwoman scientist": {
+                    "desc": "partial",
+                    "codes": [128105, 8205, 128300]
+                },
+                "gtechnologist": {
+                    "desc": "partial",
+                    "codes": [129489, 8205, 128187]
+                },
+                "gman technologist": {
+                    "desc": "partial",
+                    "codes": [128104, 8205, 128187]
+                },
+                "gwoman technologist": {
+                    "desc": "partial",
+                    "codes": [128105, 8205, 128187]
+                },
+                "gsinger": {
+                    "desc": "partial",
+                    "codes": [129489, 8205, 127908]
+                },
+                "gman singer": {
+                    "desc": "partial",
+                    "codes": [128104, 8205, 127908]
+                },
+                "gwoman singer": {
+                    "desc": "partial",
+                    "codes": [128105, 8205, 127908]
+                },
+                "gartist": {
+                    "desc": "partial",
+                    "codes": [129489, 8205, 127912]
+                },
+                "gman artist": {
+                    "desc": "partial",
+                    "codes": [128104, 8205, 127912]
+                },
+                "gwoman artist": {
+                    "desc": "partial",
+                    "codes": [128105, 8205, 127912]
+                },
+                "gpilot": {
+                    "desc": "partial",
+                    "codes": [129489, 8205, 9992, 65039]
+                },
+                "gman pilot": {
+                    "desc": "partial",
+                    "codes": [128104, 8205, 9992, 65039]
+                },
+                "gwoman pilot": {
+                    "desc": "partial",
+                    "codes": [128105, 8205, 9992, 65039]
+                },
+                "gastronaut": {
+                    "desc": "partial",
+                    "codes": [129489, 8205, 128640]
+                },
+                "gman astronaut": {
+                    "desc": "partial",
+                    "codes": [128104, 8205, 128640]
+                },
+                "gwoman astronaut": {
+                    "desc": "partial",
+                    "codes": [128105, 8205, 128640]
+                },
+                "gfirefighter": {
+                    "desc": "partial",
+                    "codes": [129489, 8205, 128658]
+                },
+                "gman firefighter": {
+                    "desc": "partial",
+                    "codes": [128104, 8205, 128658]
+                },
+                "gwoman firefighter": {
+                    "desc": "partial",
+                    "codes": [128105, 8205, 128658]
+                },
+                "gpolice officer": {
+                    "desc": "partial",
+                    "codes": [128110]
+                },
+                "gman police officer": {
+                    "desc": "partial",
+                    "codes": [128110, 8205, 9794, 65039]
+                },
+                "gwoman police officer": {
+                    "desc": "partial",
+                    "codes": [128110, 8205, 9792, 65039]
+                },
+                "gdetective": {
+                    "desc": "partial",
+                    "codes": [128373]
+                },
+                "gguard": {
+                    "desc": "partial",
+                    "codes": [128130]
+                },
+                "gman guard": {
+                    "desc": "partial",
+                    "codes": [128130, 8205, 9794, 65039]
+                },
+                "gwoman guard": {
+                    "desc": "partial",
+                    "codes": [128130, 8205, 9792, 65039]
+                },
+                "gconstruction worker": {
+                    "desc": "partial",
+                    "codes": [128119]
+                },
+                "gman construction worker": {
+                    "desc": "partial",
+                    "codes": [128119, 8205, 9794, 65039]
+                },
+                "gwoman construction worker": {
+                    "desc": "partial",
+                    "codes": [128119, 8205, 9792, 65039]
+                },
+                "gprince": {
+                    "desc": "partial",
+                    "codes": [129332]
+                },
+                "gprincess": {
+                    "desc": "partial",
+                    "codes": [128120]
+                },
+                "gperson wearing turban": {
+                    "desc": "partial",
+                    "codes": [128115]
+                },
+                "gman wearing turban": {
+                    "desc": "partial",
+                    "codes": [128115, 8205, 9794, 65039]
+                },
+                "gwoman wearing turban": {
+                    "desc": "partial",
+                    "codes": [128115, 8205, 9792, 65039]
+                },
+                "gperson with skullcap": {
+                    "desc": "partial",
+                    "codes": [128114]
+                },
+                "gwoman with headscarf": {
+                    "desc": "partial",
+                    "codes": [129493]
+                },
+                "gperson in tuxedo": {
+                    "desc": "partial",
+                    "codes": [129333]
+                },
+                "gperson with veil": {
+                    "desc": "partial",
+                    "codes": [128112]
+                },
+                "gpregnant woman": {
+                    "desc": "partial",
+                    "codes": [129328]
+                },
+                "gbreast-feeding": {
+                    "desc": "partial",
+                    "codes": [129329]
+                },
+                "gbaby angel": {
+                    "desc": "whole",
+                    "codes": [128124]
+                },
+                "gSanta Claus": {
+                    "desc": "partial",
+                    "codes": [127877]
+                },
+                "gMrs. Claus": {
+                    "desc": "partial",
+                    "codes": [129334]
+                },
+                "gsuperhero": {
+                    "desc": "whole",
+                    "codes": [129464]
+                },
+                "gman superhero": {
+                    "desc": "whole",
+                    "codes": [129464, 8205, 9794, 65039]
+                },
+                "gwoman superhero": {
+                    "desc": "whole",
+                    "codes": [129464, 8205, 9792, 65039]
+                },
+                "gsupervillain": {
+                    "desc": "whole",
+                    "codes": [129465]
+                },
+                "gman supervillain": {
+                    "desc": "whole",
+                    "codes": [129465, 8205, 9794, 65039]
+                },
+                "gwoman supervillain": {
+                    "desc": "whole",
+                    "codes": [129465, 8205, 9792, 65039]
+                },
+                "gmage": {
+                    "desc": "partial",
+                    "codes": [129497]
+                },
+                "gman mage": {
+                    "desc": "partial",
+                    "codes": [129497, 8205, 9794, 65039]
+                },
+                "gwoman mage": {
+                    "desc": "partial",
+                    "codes": [129497, 8205, 9792, 65039]
+                },
+                "gfairy": {
+                    "desc": "whole",
+                    "codes": [129498]
+                },
+                "gman fairy": {
+                    "desc": "whole",
+                    "codes": [129498, 8205, 9794, 65039]
+                },
+                "gwoman fairy": {
+                    "desc": "whole",
+                    "codes": [129498, 8205, 9792, 65039]
+                },
+                "gvampire": {
+                    "desc": "partial",
+                    "codes": [129499]
+                },
+                "gman vampire": {
+                    "desc": "partial",
+                    "codes": [129499, 8205, 9794, 65039]
+                },
+                "gwoman vampire": {
+                    "desc": "partial",
+                    "codes": [129499, 8205, 9792, 65039]
+                },
+                "gmerperson": {
+                    "desc": "whole",
+                    "codes": [129500]
+                },
+                "gmerman": {
+                    "desc": "whole",
+                    "codes": [129500, 8205, 9794, 65039]
+                },
+                "gmermaid": {
+                    "desc": "whole",
+                    "codes": [129500, 8205, 9792, 65039]
+                },
+                "gelf": {
+                    "desc": "partial",
+                    "codes": [129501]
+                },
+                "gman elf": {
+                    "desc": "partial",
+                    "codes": [129501, 8205, 9794, 65039]
+                },
+                "gwoman elf": {
+                    "desc": "partial",
+                    "codes": [129501, 8205, 9792, 65039]
+                },
+                "gperson getting massage": {
+                    "desc": "partial",
+                    "codes": [128134]
+                },
+                "gman getting massage": {
+                    "desc": "partial",
+                    "codes": [128134, 8205, 9794, 65039]
+                },
+                "gwoman getting massage": {
+                    "desc": "partial",
+                    "codes": [128134, 8205, 9792, 65039]
+                },
+                "gperson getting haircut": {
+                    "desc": "partial",
+                    "codes": [128135]
+                },
+                "gman getting haircut": {
+                    "desc": "partial",
+                    "codes": [128135, 8205, 9794, 65039]
+                },
+                "gwoman getting haircut": {
+                    "desc": "partial",
+                    "codes": [128135, 8205, 9792, 65039]
+                },
+                "gperson walking": {
+                    "desc": "whole",
+                    "codes": [128694]
+                },
+                "gman walking": {
+                    "desc": "whole",
+                    "codes": [128694, 8205, 9794, 65039]
+                },
+                "gwoman walking": {
+                    "desc": "whole",
+                    "codes": [128694, 8205, 9792, 65039]
+                },
+                "gperson standing": {
+                    "desc": "whole",
+                    "codes": [129485]
+                },
+                "gman standing": {
+                    "desc": "whole",
+                    "codes": [129485, 8205, 9794, 65039]
+                },
+                "gwoman standing": {
+                    "desc": "whole",
+                    "codes": [129485, 8205, 9792, 65039]
+                },
+                "gperson kneeling": {
+                    "desc": "whole",
+                    "codes": [129486]
+                },
+                "gman kneeling": {
+                    "desc": "whole",
+                    "codes": [129486, 8205, 9794, 65039]
+                },
+                "gwoman kneeling": {
+                    "desc": "whole",
+                    "codes": [129486, 8205, 9792, 65039]
+                },
+                "gperson with white cane": {
+                    "desc": "whole",
+                    "codes": [129489, 8205, 129455]
+                },
+                "gman with white cane": {
+                    "desc": "whole",
+                    "codes": [128104, 8205, 129455]
+                },
+                "gwoman with white cane": {
+                    "desc": "whole",
+                    "codes": [128105, 8205, 129455]
+                },
+                "gperson in motorized wheelchair": {
+                    "desc": "whole",
+                    "codes": [129489, 8205, 129468]
+                },
+                "gman in motorized wheelchair": {
+                    "desc": "whole",
+                    "codes": [128104, 8205, 129468]
+                },
+                "gwoman in motorized wheelchair": {
+                    "desc": "whole",
+                    "codes": [128105, 8205, 129468]
+                },
+                "gperson in manual wheelchair": {
+                    "desc": "whole",
+                    "codes": [129489, 8205, 129469]
+                },
+                "gman in manual wheelchair": {
+                    "desc": "whole",
+                    "codes": [128104, 8205, 129469]
+                },
+                "gwoman in manual wheelchair": {
+                    "desc": "whole",
+                    "codes": [128105, 8205, 129469]
+                },
+                "gperson running": {
+                    "desc": "whole",
+                    "codes": [127939]
+                },
+                "gman running": {
+                    "desc": "whole",
+                    "codes": [127939, 8205, 9794, 65039]
+                },
+                "gwoman running": {
+                    "desc": "whole",
+                    "codes": [127939, 8205, 9792, 65039]
+                },
+                "gwoman dancing": {
+                    "desc": "whole",
+                    "codes": [128131]
+                },
+                "gman dancing": {
+                    "desc": "whole",
+                    "codes": [128378]
+                },
+                "gperson in suit levitating": {
+                    "desc": "whole",
+                    "codes": [128372]
+                },
+                "gperson in steamy room": {
+                    "desc": "partial",
+                    "codes": [129494]
+                },
+                "gman in steamy room": {
+                    "desc": "partial",
+                    "codes": [129494, 8205, 9794, 65039]
+                },
+                "gwoman in steamy room": {
+                    "desc": "partial",
+                    "codes": [129494, 8205, 9792, 65039]
+                },
+                "gperson climbing": {
+                    "desc": "partial",
+                    "codes": [129495]
+                },
+                "gman climbing": {
+                    "desc": "partial",
+                    "codes": [129495, 8205, 9794, 65039]
+                },
+                "gwoman climbing": {
+                    "desc": "partial",
+                    "codes": [129495, 8205, 9792, 65039]
+                },
+                "ghorse racing": {
+                    "desc": "whole",
+                    "codes": [127943]
+                },
+                "gsnowboarder": {
+                    "desc": "partial",
+                    "codes": [127938]
+                },
+                "gperson golfing": {
+                    "desc": "whole",
+                    "codes": [127948]
+                },
+                "gperson surfing": {
+                    "desc": "partial",
+                    "codes": [127940]
+                },
+                "gman surfing": {
+                    "desc": "partial",
+                    "codes": [127940, 8205, 9794, 65039]
+                },
+                "gwoman surfing": {
+                    "desc": "partial",
+                    "codes": [127940, 8205, 9792, 65039]
+                },
+                "gperson rowing boat": {
+                    "desc": "partial",
+                    "codes": [128675]
+                },
+                "gman rowing boat": {
+                    "desc": "partial",
+                    "codes": [128675, 8205, 9794, 65039]
+                },
+                "gwoman rowing boat": {
+                    "desc": "partial",
+                    "codes": [128675, 8205, 9792, 65039]
+                },
+                "gperson swimming": {
+                    "desc": "partial",
+                    "codes": [127946]
+                },
+                "gman swimming": {
+                    "desc": "partial",
+                    "codes": [127946, 8205, 9794, 65039]
+                },
+                "gwoman swimming": {
+                    "desc": "partial",
+                    "codes": [127946, 8205, 9792, 65039]
+                },
+                "gperson bouncing ball": {
+                    "desc": "whole",
+                    "codes": [9977]
+                },
+                "gperson lifting weights": {
+                    "desc": "whole",
+                    "codes": [127947]
+                },
+                "gperson biking": {
+                    "desc": "whole",
+                    "codes": [128692]
+                },
+                "gman biking": {
+                    "desc": "whole",
+                    "codes": [128692, 8205, 9794, 65039]
+                },
+                "gwoman biking": {
+                    "desc": "whole",
+                    "codes": [128692, 8205, 9792, 65039]
+                },
+                "gperson mountain biking": {
+                    "desc": "partial",
+                    "codes": [128693]
+                },
+                "gman mountain biking": {
+                    "desc": "partial",
+                    "codes": [128693, 8205, 9794, 65039]
+                },
+                "gwoman mountain biking": {
+                    "desc": "partial",
+                    "codes": [128693, 8205, 9792, 65039]
+                },
+                "gperson cartwheeling": {
+                    "desc": "whole",
+                    "codes": [129336]
+                },
+                "gman cartwheeling": {
+                    "desc": "whole",
+                    "codes": [129336, 8205, 9794, 65039]
+                },
+                "gwoman cartwheeling": {
+                    "desc": "whole",
+                    "codes": [129336, 8205, 9792, 65039]
+                },
+                "gpeople wrestling": {
+                    "desc": "whole",
+                    "codes": [129340]
+                },
+                "gmen wrestling": {
+                    "desc": "whole",
+                    "codes": [129340, 8205, 9794, 65039]
+                },
+                "gwomen wrestling": {
+                    "desc": "whole",
+                    "codes": [129340, 8205, 9792, 65039]
+                },
+                "gperson playing water polo": {
+                    "desc": "partial",
+                    "codes": [129341]
+                },
+                "gman playing water polo": {
+                    "desc": "partial",
+                    "codes": [129341, 8205, 9794, 65039]
+                },
+                "gwoman playing water polo": {
+                    "desc": "partial",
+                    "codes": [129341, 8205, 9792, 65039]
+                },
+                "gperson playing handball": {
+                    "desc": "whole",
+                    "codes": [129342]
+                },
+                "gman playing handball": {
+                    "desc": "whole",
+                    "codes": [129342, 8205, 9794, 65039]
+                },
+                "gwoman playing handball": {
+                    "desc": "whole",
+                    "codes": [129342, 8205, 9792, 65039]
+                },
+                "gperson juggling": {
+                    "desc": "partial",
+                    "codes": [129337]
+                },
+                "gman juggling": {
+                    "desc": "partial",
+                    "codes": [129337, 8205, 9794, 65039]
+                },
+                "gwoman juggling": {
+                    "desc": "partial",
+                    "codes": [129337, 8205, 9792, 65039]
+                },
+                "gperson in lotus position": {
+                    "desc": "whole",
+                    "codes": [129496]
+                },
+                "gman in lotus position": {
+                    "desc": "whole",
+                    "codes": [129496, 8205, 9794, 65039]
+                },
+                "gwoman in lotus position": {
+                    "desc": "whole",
+                    "codes": [129496, 8205, 9792, 65039]
+                },
+                "gperson taking bath": {
+                    "desc": "whole",
+                    "codes": [128704]
+                },
+                "gperson in bed": {
+                    "desc": "whole",
+                    "codes": [128716]
+                },
+                "gwomen holding hands": {
+                    "desc": "whole",
+                    "codes": [128109]
+                },
+                "gwoman and man holding hands": {
+                    "desc": "whole",
+                    "codes": [128107]
+                },
+                "gmen holding hands": {
+                    "desc": "whole",
+                    "codes": [128108]
+                }
+            }

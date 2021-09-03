@@ -1,0 +1,402 @@
+{
+                "monkey face": {
+                    "codes": [128053],
+                    "desc": ""
+                },
+                "monkey": {
+                    "codes": [128018],
+                    "desc": ""
+                },
+                "gorilla": {
+                    "codes": [129421],
+                    "desc": ""
+                },
+                "orangutan": {
+                    "codes": [129447],
+                    "desc": ""
+                },
+                "dog face": {
+                    "codes": [128054],
+                    "desc": ""
+                },
+                "dog": {
+                    "codes": [128021],
+                    "desc": ""
+                },
+                "guide dog": {
+                    "codes": [129454],
+                    "desc": ""
+                },
+                "service dog": {
+                    "codes": [128021, 8205, 129466],
+                    "desc": ""
+                },
+                "poodle": {
+                    "codes": [128041],
+                    "desc": ""
+                },
+                "wolf": {
+                    "codes": [128058],
+                    "desc": ""
+                },
+                "fox": {
+                    "codes": [129418],
+                    "desc": ""
+                },
+                "raccoon": {
+                    "codes": [129437],
+                    "desc": ""
+                },
+                "cat face": {
+                    "codes": [128049],
+                    "desc": ""
+                },
+                "cat": {
+                    "codes": [128008],
+                    "desc": ""
+                },
+                "lion": {
+                    "codes": [129409],
+                    "desc": ""
+                },
+                "tiger face": {
+                    "codes": [128047],
+                    "desc": ""
+                },
+                "tiger": {
+                    "codes": [128005],
+                    "desc": ""
+                },
+                "leopard": {
+                    "codes": [128006],
+                    "desc": ""
+                },
+                "horse": {
+                    "codes": [128014],
+                    "desc": ""
+                },
+                "deer": {
+                    "codes": [129420],
+                    "desc": ""
+                },
+                "cow face": {
+                    "codes": [128046],
+                    "desc": ""
+                },
+                "ox": {
+                    "codes": [128002],
+                    "desc": ""
+                },
+                "water buffalo": {
+                    "codes": [128003],
+                    "desc": ""
+                },
+                "cow": {
+                    "codes": [128004],
+                    "desc": ""
+                },
+                "pig face": {
+                    "codes": [128055],
+                    "desc": ""
+                },
+                "pig": {
+                    "codes": [128022],
+                    "desc": ""
+                },
+                "pig nose": {
+                    "codes": [128061],
+                    "desc": ""
+                },
+                "ram": {
+                    "codes": [128015],
+                    "desc": ""
+                },
+                "ewe": {
+                    "codes": [128017],
+                    "desc": ""
+                },
+                "goat": {
+                    "codes": [128016],
+                    "desc": ""
+                },
+                "camel": {
+                    "codes": [128042],
+                    "desc": ""
+                },
+                "two-hump camel": {
+                    "codes": [128043],
+                    "desc": ""
+                },
+                "llama": {
+                    "codes": [129433],
+                    "desc": ""
+                },
+                "giraffe": {
+                    "codes": [129426],
+                    "desc": ""
+                },
+                "elephant": {
+                    "codes": [128024],
+                    "desc": ""
+                },
+                "hippopotamus": {
+                    "codes": [129435],
+                    "desc": ""
+                },
+                "mouse face": {
+                    "codes": [128045],
+                    "desc": ""
+                },
+                "mouse": {
+                    "codes": [128001],
+                    "desc": ""
+                },
+                "rat": {
+                    "codes": [128000],
+                    "desc": ""
+                },
+                "hamster": {
+                    "codes": [128057],
+                    "desc": ""
+                },
+                "rabbit face": {
+                    "codes": [128048],
+                    "desc": ""
+                },
+                "rabbit": {
+                    "codes": [128007],
+                    "desc": ""
+                },
+                "chipmunk": {
+                    "codes": [128063],
+                    "desc": ""
+                },
+                "hedgehog": {
+                    "codes": [129428],
+                    "desc": ""
+                },
+                "bat": {
+                    "codes": [129415],
+                    "desc": ""
+                },
+                "bear": {
+                    "codes": [128059],
+                    "desc": ""
+                },
+                "koala": {
+                    "codes": [128040],
+                    "desc": ""
+                },
+                "panda": {
+                    "codes": [128060],
+                    "desc": ""
+                },
+                "sloth": {
+                    "codes": [129445],
+                    "desc": ""
+                },
+                "otter": {
+                    "codes": [129446],
+                    "desc": ""
+                },
+                "skunk": {
+                    "codes": [129448],
+                    "desc": ""
+                },
+                "kangaroo": {
+                    "codes": [129432],
+                    "desc": ""
+                },
+                "badger": {
+                    "codes": [129441],
+                    "desc": ""
+                },
+                "paw prints": {
+                    "codes": [128062],
+                    "desc": ""
+                },
+                "turkey": {
+                    "codes": [129411],
+                    "desc": ""
+                },
+                "chicken": {
+                    "codes": [128020],
+                    "desc": ""
+                },
+                "rooster": {
+                    "codes": [128019],
+                    "desc": ""
+                },
+                "hatching chick": {
+                    "codes": [128035],
+                    "desc": ""
+                },
+                "baby chick": {
+                    "codes": [128036],
+                    "desc": ""
+                },
+                "front-facing baby chick": {
+                    "codes": [128037],
+                    "desc": ""
+                },
+                "bird": {
+                    "codes": [128038],
+                    "desc": ""
+                },
+                "penguin": {
+                    "codes": [128039],
+                    "desc": ""
+                },
+                "dove": {
+                    "codes": [128330],
+                    "desc": ""
+                },
+                "eagle": {
+                    "codes": [129413],
+                    "desc": ""
+                },
+                "duck": {
+                    "codes": [129414],
+                    "desc": ""
+                },
+                "swan": {
+                    "codes": [129442],
+                    "desc": ""
+                },
+                "owl": {
+                    "codes": [129417],
+                    "desc": ""
+                },
+                "flamingo": {
+                    "codes": [129449],
+                    "desc": ""
+                },
+                "peacock": {
+                    "codes": [129434],
+                    "desc": ""
+                },
+                "parrot": {
+                    "codes": [129436],
+                    "desc": ""
+                },
+                "frog": {
+                    "codes": [128056],
+                    "desc": ""
+                },
+                "crocodile": {
+                    "codes": [128010],
+                    "desc": ""
+                },
+                "turtle": {
+                    "codes": [128034],
+                    "desc": ""
+                },
+                "lizard": {
+                    "codes": [129422],
+                    "desc": ""
+                },
+                "snake": {
+                    "codes": [128013],
+                    "desc": ""
+                },
+                "dragon face": {
+                    "codes": [128050],
+                    "desc": ""
+                },
+                "dragon": {
+                    "codes": [128009],
+                    "desc": ""
+                },
+                "sauropod": {
+                    "codes": [129429],
+                    "desc": ""
+                },
+                "T-Rex": {
+                    "codes": [129430],
+                    "desc": ""
+                },
+                "spouting whale": {
+                    "codes": [128051],
+                    "desc": ""
+                },
+                "whale": {
+                    "codes": [128011],
+                    "desc": ""
+                },
+                "dolphin": {
+                    "codes": [128044],
+                    "desc": ""
+                },
+                "fish": {
+                    "codes": [128031],
+                    "desc": ""
+                },
+                "tropical fish": {
+                    "codes": [128032],
+                    "desc": ""
+                },
+                "blowfish": {
+                    "codes": [128033],
+                    "desc": ""
+                },
+                "shark": {
+                    "codes": [129416],
+                    "desc": ""
+                },
+                "octopus": {
+                    "codes": [128025],
+                    "desc": ""
+                },
+                "spiral shell": {
+                    "codes": [128026],
+                    "desc": ""
+                },
+                "snail": {
+                    "codes": [128012],
+                    "desc": ""
+                },
+                "butterfly": {
+                    "codes": [129419],
+                    "desc": ""
+                },
+                "bug": {
+                    "codes": [128027],
+                    "desc": ""
+                },
+                "ant": {
+                    "codes": [128028],
+                    "desc": ""
+                },
+                "honeybee": {
+                    "codes": [128029],
+                    "desc": ""
+                },
+                "lady beetle": {
+                    "codes": [128030],
+                    "desc": ""
+                },
+                "cricket": {
+                    "codes": [129431],
+                    "desc": ""
+                },
+                "spider": {
+                    "codes": [128375],
+                    "desc": ""
+                },
+                "spider web": {
+                    "codes": [128376],
+                    "desc": ""
+                },
+                "scorpion": {
+                    "codes": [129410],
+                    "desc": ""
+                },
+                "mosquito": {
+                    "codes": [129439],
+                    "desc": ""
+                },
+                "microbe": {
+                    "codes": [129440],
+                    "desc": ""
+                }
+            }
